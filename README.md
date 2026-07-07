@@ -1,18 +1,20 @@
 <h1 align="center">Hi 👋, I'm Ashwanth K</h1>
-<h3 align="center">A passionate MERN Stack Developer from India</h3>
+<h3 align="center">Full Stack Developer (MERN) | Building secure, production-grade healthcare software</h3>
+
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwanthkumar10&label=Profile%20views&color=0e75b6&style=flat" alt="ashwanthkumar10" /> </p>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=ashwanthkumar10&label=Profile%20views&color=0e75b6&style=flat" alt="ashwanthkumar10" />
+</p>
 
-- 🌱 I’m currently learning **Node , React , Express**
-
-- 👯 I’m looking to collaborate on **MERN stack Projects**
-
-- 🤝 I’m looking for help with **MERn Stack Development**
-
-- 👨‍💻 All of my projects are available at [https://ashwanth-portfolio.vercel.app/](https://ashwanth-portfolio.vercel.app/)
-
-- 📫 How to reach me **ashwanthashu10@gmail.com**
+- 💼 I'm currently an **Associate Software Engineer** at **Value Health Inc.**, building a HIPAA-compliant eBenefit Verification (EBV) platform for a US healthcare client
+- 🔐 Recently identified and fixed a **Microsoft SSO (OAuth 2.0/OIDC) security vulnerability** in production, and built an **OTP-based MFA system** with per-flow lockout logic
+- 🛠️ Working across the full stack — **React.js, NestJS, Node.js, TypeScript, PostgreSQL (TypeORM), MongoDB** — on RBAC, secure APIs, and performance-optimized dashboards
+- 🌱 Currently deepening my skills in **system design, DSA, and application security**
+- 👯 Looking to collaborate on **full-stack projects involving authentication, security, or healthcare tech**
+- 🤝 Open to **Full Stack Developer** opportunities
+- 👨‍💻 Portfolio: [ashwanth-portfolio.vercel.app](https://ashwanth-portfolio.vercel.app/)
+- 📫 Reach me at **ashwanthashu10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,8 +23,21 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="left">
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+<a href="https://www.javascript.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/></a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwanthkumar10&show_icons=true&locale=en&layout=compact" alt="ashwanthkumar10" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwanthkumar10&" alt="ashwanthkumar10" /></p>
